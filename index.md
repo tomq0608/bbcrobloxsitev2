@@ -5,7 +5,7 @@ layout: landing-page
 heading: BBC Roblox
 partners: []
 services: []
-sub_heading: ''
+sub_heading: Coming Soon
 textline: |-
   BBC RoPlayer
 
@@ -13,7 +13,7 @@ textline: |-
 hero_button:
   text: Learn more
   href: "/about"
-show_news: true
+show_news: false
 show_staff: false
 menu:
   navigation:
