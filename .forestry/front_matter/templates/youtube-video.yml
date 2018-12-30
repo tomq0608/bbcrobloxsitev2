@@ -1,0 +1,10 @@
+---
+label: Youtube Video
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: youtube_link
+  label: Youtube Link
+  config:
+    required: true
