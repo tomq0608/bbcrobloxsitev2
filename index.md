@@ -5,7 +5,7 @@ layout: landing-page
 heading: BBC Roblox
 partners: []
 services: []
-sub_heading: Coming Soon
+sub_heading: Coming Soon!
 textline: |-
   BBC RoPlayer
 
